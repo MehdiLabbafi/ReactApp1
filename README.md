@@ -21,8 +21,11 @@ This is a React-based reservation system for booking 3-hour time slots at one of
 ### Prerequisites
 Ensure that you have Node.js and npm installed on your system.
 
-### Installation
+### Dependencies
 
-1. Clone the repository:
-git clone https://github.com/your-username/conservation-reservation-system.git
-cd conservation-reservation-system
+	•	React
+	•	React Router DOM (Ensure you install it using npm install react-router-dom)
+
+Author
+
+Developed by Mehdi Labbafi
